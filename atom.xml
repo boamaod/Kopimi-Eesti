@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Kopimi Eesti]]></title>
+  <link href="http://kopimi.ee/atom.xml" rel="self"/>
+  <link href="http://kopimi.ee/"/>
+  <updated>2012-03-31T17:09:14+00:00</updated>
+  <id>http://kopimi.ee/</id>
+  <author>
+    <name><![CDATA[Kopimi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Kopimi Eesti avas veebilehe; töötame põhi- ja pühakirja kallal]]></title>
+    <link href="http://kopimi.ee/blog/2012/03/31/kopimi-eesti-avas-veebilehe-tootame-pohi-ja-puhakirja-kallal/"/>
+    <updated>2012-03-31T14:48:00+00:00</updated>
+    <id>http://kopimi.ee/blog/2012/03/31/kopimi-eesti-avas-veebilehe-tootame-pohi-ja-puhakirja-kallal</id>
+    <content type="html"><![CDATA[<p style="text-align: justify;">Meil on rõõm teatada, et oleme registreerinud domeeni <a href="http://kopimi.ee"><em>kopimi.ee</em></a> ning pannud püsti algelise veebilehe. Oleme arvamusel, et need on vajalikud sammud parema kommunikatsiooni saavutamiseks, mis tuleb kindlasti enne registreerumiskatseid kasuks.</p>
+
+
+<!-- more -->
+
+
+<p style="text-align: justify;">Hetkel jätkub töö meie pühakirja kallal, mis peaks varsti ka siia ilmuma.</p>
+
+
+<p style="text-align: justify;">Järgmine nädal võib ilmselt oodata põhikirjast avalikku mustandit. Seni võib oma head ideed saata aadressile <em>kopimi (at) kopimi (dot) ee</em>. Eriti ootame soovitusi/abipakkumisi veebilehe disaini kohta.</p>
+
+]]></content>
+  </entry>
+  
+</feed>
